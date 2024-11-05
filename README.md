@@ -12,7 +12,7 @@ How to Run the Programs
 
 Clone this repository to your local machine:
 
-git clone https://github.com/l1f24bscs0309/lab-week-03
+git clone https://github.com/l1f24bscs0309/lab-week-04
 
 
 Navigate to the directory containing the programs:
